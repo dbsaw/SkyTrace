@@ -7,7 +7,6 @@ import {
   Typography,
   Container,
 } from '@mui/material';
-import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 
 export const EchoInput = () => {
   const [inputValue, setInputValue] = useState('');
